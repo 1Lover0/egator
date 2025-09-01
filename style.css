@@ -56,11 +56,11 @@ html{
 }
 body{
     width: 100vw;
+    height: 100vh;
     font-family: poppins;
     font-size: 0.88rem;
     background: var(--color-backgroud);
     user-select: none;
-    overflow: hidden;
     color: var(--color-dark);
 }
 a{
@@ -649,4 +649,5 @@ main .recent-order a{
     }
 
 }
+
 
