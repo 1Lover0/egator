@@ -56,7 +56,7 @@ html{
 }
 body{
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     font-family: poppins;
     font-size: 0.88rem;
     background: var(--color-backgroud);
@@ -648,4 +648,5 @@ main .recent-order a{
     .right .top button span{
         font-size: 2rem;
     }
+
 }
